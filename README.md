@@ -1,2 +1,2 @@
 # ProjekMagangIkmal
-ini hanya latihan repository
+ini hanya latihan repository yang sewaktu waktu bisa ilang...
